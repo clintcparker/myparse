@@ -1,5 +1,5 @@
 {
-  "name": "node-parse-api",
+  "name": "myparse",
   "description": "API for accessing Parse.com applications",
   "version": "0.1.1",
   "author": "Chris Johnson <tenorviol@yahoo.com>, Michael Leveton <mleveton@prepcloud.com>, Seth Gholson",
